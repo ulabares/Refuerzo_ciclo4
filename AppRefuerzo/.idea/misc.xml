@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/boton_color.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/boton_deshabilitado.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/boton_estilo.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/boton_habilitado.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/forma_texto.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_configuracion_b.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_login.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_logo.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_mas.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_notificacion_b.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_persona.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_salir_b.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/drawable/ic_usuario.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/activity_login.xml" value="0.2536231884057971" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/activity_perfil.xml" value="0.2536231884057971" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/activity_recuperar_contra.xml" value="0.2536231884057971" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/activity_registro.xml" value="0.2536231884057971" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/layout/fragment_perfil.xml" value="0.2536231884057971" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/menu/opciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Mision TIC/Refuerzo/Segundo sabado/AppRefuerzo1b/AppRefuerzo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/boton_estilo.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/boton_habilitado.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/forma_texto.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/ic_logo.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/drawable/ic_usuario.xml" value="0.19375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/activity_login.xml" value="0.1734375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/activity_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/activity_recuperar_contra.xml" value="0.1734375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/activity_registrase.xml" value="0.21" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/layout/fragment_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/AppRefuerzo/app/src/main/res/menu/opciones.xml" value="0.1734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

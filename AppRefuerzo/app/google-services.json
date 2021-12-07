@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891896085423",
+    "project_id": "appsprint34",
+    "storage_bucket": "appsprint34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891896085423:android:47ef6d6f7736a4d37ecd5a",
+        "android_client_info": {
+          "package_name": "com.ulabares.apprefuerzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891896085423-18vcbqos3ss16f5ihigbu1lcrv1u0q4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rWeW9YiyqWQrAZYH7_XJTDWMtL0W7hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891896085423-18vcbqos3ss16f5ihigbu1lcrv1u0q4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
